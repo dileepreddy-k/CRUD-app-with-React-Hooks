@@ -9,7 +9,7 @@ const App = () => {
 	const todoData = [
 		{ id: 1, title: 'Hooks', description: 'Create CRUD app with React Hooks', priority: 'High' },
 		{ id: 2, title: 'Class', description: 'Create CRUD app w/o React Hooks', priority: 'Low' },
-		{ id: 3, title: 'Suriefy', description: 'Make CRUD as Suriefy system test', priority: 'Medium' },
+		{ id: 3, title: 'Suriefy', description: 'Create CRUD app with Hooks + Redux', priority: 'Medium' },
 	];
 
 	const initialToDoState = { 
