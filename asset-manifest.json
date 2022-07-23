@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/CRUD-app-with-React-Hooks/static/css/main.e53fc632.chunk.css",
+    "main.js": "/CRUD-app-with-React-Hooks/static/js/main.9107dc71.chunk.js",
+    "main.js.map": "/CRUD-app-with-React-Hooks/static/js/main.9107dc71.chunk.js.map",
+    "runtime-main.js": "/CRUD-app-with-React-Hooks/static/js/runtime-main.5aa98c5e.js",
+    "runtime-main.js.map": "/CRUD-app-with-React-Hooks/static/js/runtime-main.5aa98c5e.js.map",
+    "static/js/2.0e8c6fb3.chunk.js": "/CRUD-app-with-React-Hooks/static/js/2.0e8c6fb3.chunk.js",
+    "static/js/2.0e8c6fb3.chunk.js.map": "/CRUD-app-with-React-Hooks/static/js/2.0e8c6fb3.chunk.js.map",
+    "index.html": "/CRUD-app-with-React-Hooks/index.html",
+    "precache-manifest.91a2cbbb8ae687c4be7a89c53df1082e.js": "/CRUD-app-with-React-Hooks/precache-manifest.91a2cbbb8ae687c4be7a89c53df1082e.js",
+    "service-worker.js": "/CRUD-app-with-React-Hooks/service-worker.js",
+    "static/css/main.e53fc632.chunk.css.map": "/CRUD-app-with-React-Hooks/static/css/main.e53fc632.chunk.css.map",
+    "static/js/2.0e8c6fb3.chunk.js.LICENSE.txt": "/CRUD-app-with-React-Hooks/static/js/2.0e8c6fb3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5aa98c5e.js",
+    "static/js/2.0e8c6fb3.chunk.js",
+    "static/css/main.e53fc632.chunk.css",
+    "static/js/main.9107dc71.chunk.js"
+  ]
+}
